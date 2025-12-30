@@ -16,8 +16,8 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-#
-
+<br>
+<br>
 ## Puedes echarle un ojo a algunos de mis proyectos terminados aquí 👇🏼
 ### Primer proyecto de desarrollo responsive para web Freelancer
 <a href="https://juancholopodous.github.io/Freelance-Web-Designer/">
@@ -38,7 +38,15 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 ### Tienda Web Whiskers Pet-Shop
 <a href="https://juancholopodous.github.io/Web-Whiskers-Petshop/index.html"><img src="https://github.com/juancholopodous/Web-Whiskers-Petshop/blob/main/Media%20Github/Portada%20W.jpg" style="height: 100%; width:100%;"/></a>
-#
+
+<div align="center">
+  
+[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Web-Whiskers-Petshop)
+
+</div>
+
+<br>
+<br>
 
 ## Puedes encontrarme en:
 
