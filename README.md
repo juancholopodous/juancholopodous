@@ -31,14 +31,8 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 #
 
-### Segundo proyecto web
-<a href="###"><img src="###" style="height: 100%; width:100%;"/></a>
-<div align="center">
-  
+### Segundo proyecto web  
 [![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Second-Proyect)
-
-</div>
-
 #
 
 ### Tienda Web Whiskers Pet-Shop
