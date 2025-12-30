@@ -23,12 +23,12 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 <a href="https://juancholopodous.github.io/Freelance-Web-Designer/"><img src="https://github.com/juancholopodous/Freelance-Web-Designer/blob/main/Media%20Github/portada.jpg" style="height: 100%; width:100%;"/></a>
 #
 
-### Segundo proyecto web 
-<a href="###"><img src="###" style="height: 60%; width:60%;"/></a>
+### Segundo proyecto web
+<a href="###"><img src="###" style="height: 100%; width:100%;"/></a>
 #
 
 ### Tienda Web Whiskers Pet-Shop
-<a href="###"><img src="###" style="height: 60%; width:60%;"/></a>
+<a href="https://juancholopodous.github.io/Web-Whiskers-Petshop/index.html"><img src="https://github.com/juancholopodous/Web-Whiskers-Petshop/blob/main/Media%20Github/Portada%20W.jpg" style="height: 100%; width:100%;"/></a>
 #
 
 ## Puedes encontrarme en:
