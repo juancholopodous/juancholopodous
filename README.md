@@ -18,11 +18,10 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 ![JSON Web Tokens](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 <br>
 <br>
+
 ## Puedes echarle un ojo a algunos de mis proyectos terminados aquí 👇🏼
 ### Primer proyecto de desarrollo responsive para web Freelancer
-<a href="https://juancholopodous.github.io/Freelance-Web-Designer/">
-  <img src="https://raw.githubusercontent.com/juancholopodous/Freelance-Web-Designer/main/Media%20Github/portada.jpg" style="width:100%;"/>
-</a>
+<a href="https://juancholopodous.github.io/Freelance-Web-Designer/"><img src="https://raw.githubusercontent.com/juancholopodous/Freelance-Web-Designer/main/Media%20Github/portada.jpg" style="width:100%;"/></a>
 
 <div align="center">
   
