@@ -51,7 +51,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 [![Instagram](https://img.shields.io/badge/Instagram-@juancholopodous-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/juancholopodous)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--s--roth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-s-roth)
-[![Email](https://img.shields.io/badge/juanandresroth@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanandresroth@gmail.com)
+[![Email](https://img.shields.io/badge/juanandresroth2@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanandresroth2@gmail.com)
 
 
 <!--
