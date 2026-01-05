@@ -31,8 +31,12 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 #
 
-### Segundo proyecto web  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Second-Proyect)
+### Segundo proyecto web BlogDeCafé
+<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.png" style="width:100%;"/></a>
+
+<div align="center">
+  
+[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Blog-De-Cafe)
 #
 
 ### Tienda Web Whiskers Pet-Shop
