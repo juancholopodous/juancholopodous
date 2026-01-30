@@ -25,7 +25,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 <div align="center">
   
-&nbsp;
+
 
   
 ### Primer proyecto de desarrollo responsive para web Freelancer
