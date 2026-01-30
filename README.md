@@ -19,8 +19,12 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 <br>
 <br>
 
+<div align="center">
+  
 ## Puedes echarle un ojo a algunos de mis proyectos terminados aquí &nbsp;&nbsp;&nbsp; ![https://juancholopodous.com](22_000.png)
 
+<div align="center">
+  
 &nbsp;
 
   
