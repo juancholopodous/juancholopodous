@@ -1,4 +1,4 @@
-# ![https://juancholopodous.com](juancholopodous_emote.png) Hola a todos👋, mi nombre es Juan Silva Roth.
+# ![https://juancholopodous.com](juancholopodous_emote.png) &nbsp;Hola a todos👋, mi nombre es Juan Silva Roth.
 ### Soy estudiante de Ingeniería de la Universidad De La República. 🇺🇾
 
 ![https://github.com/juancholopodous](./profile.png)
@@ -19,7 +19,14 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 <br>
 <br>
 
-## Puedes echarle un ojo a algunos de mis proyectos terminados aquí 👇🏼
+<div align="center">
+
+## Puedes echarle un ojo a algunos de mis proyectos terminados aquí &nbsp;&nbsp;&nbsp;&nbsp; ![https://juancholopodous.com](22_000.png)
+
+<div align="center">
+&nbsp;
+
+  
 ### Primer proyecto de desarrollo responsive para web Freelancer
 <a href="https://juancholopodous.github.io/Freelance-Web-Designer/"><img src="https://raw.githubusercontent.com/juancholopodous/Freelance-Web-Designer/main/Media%20Github/portada.jpg" style="width:100%;"/></a>
 
@@ -27,7 +34,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
   
 [![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Freelance-Web-Designer)
 
-</div>
+<div align="center">
 
 #
 
