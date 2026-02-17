@@ -40,7 +40,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 #
 
 ### Segundo proyecto web BlogDeCafé
-<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.png" style="width:100%;"/></a>
+<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
 <div align="center">
   
