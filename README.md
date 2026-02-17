@@ -47,15 +47,15 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 [![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Blog-De-Cafe)
 #
 
-### [WIP] Tercer proyecto web Festival de Música 🚧
-<a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.png" style="width:100%;"/></a>
+### Tercer proyecto web Festival de Música
+<a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
 <div align="center">
   
 [![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Web-Festival-de-Musica)
 #
 
-### Tienda Web Whiskers Pet-Shop
+### [WIP] Tienda Web Whiskers Pet-Shop 🚧
 <a href="https://juancholopodous.github.io/Web-Whiskers-Petshop/index.html"><img src="https://github.com/juancholopodous/Web-Whiskers-Petshop/blob/main/Media%20Github/Portada%20W.jpg" style="height: 100%; width:100%;"/></a>
 
 <div align="center">
