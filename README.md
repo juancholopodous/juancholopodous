@@ -48,7 +48,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 #
 
 ### [WIP] Tercer proyecto web Festival de Música 🚧
-<a href="https://juancholopodous.github.io/Web-Festival-de-Musica/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.png" style="width:100%;"/></a>
+<a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.png" style="width:100%;"/></a>
 
 <div align="center">
   
