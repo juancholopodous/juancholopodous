@@ -24,9 +24,24 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 ## Puedes echarle un ojo a algunos de mis proyectos terminados aquí &nbsp;&nbsp;&nbsp; ![https://juancholopodous.com](22_000.png)
 
 <div align="center">
+
+<br>
+
+### Tercer proyecto web Festival de Música
+<a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
+
+<div align="center">
   
+[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Web-Festival-de-Musica)
+#
 
+### Segundo proyecto web BlogDeCafé
+<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
+<div align="center">
+  
+[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Blog-De-Cafe)
+#
   
 ### Primer proyecto de desarrollo responsive para web Freelancer
 <a href="https://juancholopodous.github.io/Freelance-Web-Designer/"><img src="https://raw.githubusercontent.com/juancholopodous/Freelance-Web-Designer/main/Media%20Github/portada.jpg" style="width:100%;"/></a>
@@ -37,22 +52,6 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 <div align="center">
 
-#
-
-### Segundo proyecto web BlogDeCafé
-<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
-
-<div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Blog-De-Cafe)
-#
-
-### Tercer proyecto web Festival de Música
-<a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
-
-<div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Web-Festival-de-Musica)
 #
 
 ### [WIP] Tienda Web Whiskers Pet-Shop 🚧
