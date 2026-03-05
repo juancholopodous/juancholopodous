@@ -27,6 +27,14 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 <br>
 
+### [WIP] Cuarto proyecto web Bienes Raices
+<a href="https://juancholopodous.github.io/Bienes_Raices/"><img src="https://raw.githubusercontent.com/juancholopodous/Bienes_Raices/main/Media%20GitHub/Portada.jpg" style="width:100%;"/></a>
+
+<div align="center">
+  
+[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Bienes_Raices)
+#
+
 ### Tercer proyecto web Festival de Música
 <a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
