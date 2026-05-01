@@ -27,8 +27,8 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 <br>
 
-### [WIP] Cuarto proyecto web Bienes Raices 🚧
-<a href="https://juancholopodous.github.io/Bienes_Raices/"><img src="https://raw.githubusercontent.com/juancholopodous/Bienes_Raices/main/Media%20GitHub/Portada.png" style="width:100%;"/></a>
+### Cuarto proyecto web Bienes Raices Model View Controller
+<a href="https://juancholopodous.github.io/Bienes_Raices_MVC/"><img src="https://raw.githubusercontent.com/juancholopodous/Bienes_Raices/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
 <div align="center">
   
