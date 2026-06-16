@@ -32,7 +32,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 <div align="center">
   
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Bienes_Raices_MVC)
+[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/App-Salon)
 #
 
 ### Cuarto proyecto web Bienes Raices Model View Controller
