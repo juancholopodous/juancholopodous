@@ -29,7 +29,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 ### [WIP] Quinto proyecto web App de Salón (MVC) 🚧
 <a href="https://juancholopodous.github.io/App-Salon/"><img
-src="https://raw.githubusercontent.com/juancholopodousApp-Salon/main/Media%20GitHub/BannerWIP.png" style="width:100%;"/></a>
+src="https://raw.githubusercontent.com/juancholopodous/App-Salon/main/Media%20GitHub/BannerWIP.png" style="width:100%;"/></a>
 
 <div align="center">
   
