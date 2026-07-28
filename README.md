@@ -5,7 +5,7 @@
 
 He destinado este espacio para documentar mi evolución en el desarrollo web a través de proyectos académicos e independientes, donde aplico un ecosistema tecnológico que abarca desde el diseño Front-End con HTML y CSS, hasta la lógica de servidor utilizando Node.js, PHP con el framework Laravel y Python con Django.
 
-En estos desarrollos integro la gestión de bases de datos relacionales con MySQL y la implementación de APIs REST con sistemas de autenticación mediante JWT, con el objetivo de consolidar mis conocimientos y construir soluciones reales un commit a la vez.
+En estos desarrollos integro la gestión de bases de datos relacionales con MySQL y la implementación de APIs REST con sistemas de autenticación mediante JWT, con el objetivo de consolidar mis conocimientos y construir soluciones reales un commit a la vez. 1
 
 <br>
 
