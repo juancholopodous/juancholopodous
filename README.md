@@ -5,7 +5,7 @@
 
 He destinado este espacio para documentar mi evolución en el desarrollo web a través de proyectos académicos e independientes, donde aplico un ecosistema tecnológico que abarca desde el diseño Front-End con HTML y CSS, hasta la lógica de servidor utilizando Node.js, PHP con el framework Laravel y Python con Django.
 
-En estos desarrollos integro la gestión de bases de datos relacionales con MySQL y la implementación de APIs REST con sistemas de autenticación mediante JWT, con el objetivo de consolidar mis conocimientos y construir soluciones reales un commit a la vez. 1
+En estos desarrollos integro la gestión de bases de datos relacionales con MySQL y la implementación de APIs REST con sistemas de autenticación mediante JWT, con el objetivo de consolidar mis conocimientos y construir soluciones reales un commit a la vez.
 
 <br>
 
@@ -29,60 +29,70 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 
 <br>
 
-### [WIP] Quinto proyecto web App de Salón (MVC) 🚧
-<a href="https://juancholopodous.github.io/App-Salon/"><img
-src="https://raw.githubusercontent.com/juancholopodous/App-Salon/main/Media%20GitHub/BannerWIP.png" style="width:100%;"/></a>
+<div align="center">
+  <h3>[WIP] Quinto proyecto web App de Salón (MVC) 🚧</h3>
+</div>
+<a href="https://juancholopodous.github.io/App-Salon/"><img src="https://raw.githubusercontent.com/juancholopodous/App-Salon/main/Media%20GitHub/BannerWIP.png" style="width:100%;"/></a>
 
 <div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/App-Salon)
-#
+  <a href="https://github.com/juancholopodous/App-Salon"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
+</div>
 
-### Cuarto proyecto web Bienes Raices Model View Controller
+---
+
+<div align="center">
+  <h3>Cuarto proyecto web Bienes Raices Model View Controller</h3>
+</div>
 <a href="https://bienesraices-juancholopodous-mvc.sao.dom.my.id/"><img src="https://raw.githubusercontent.com/juancholopodous/Bienes_Raices_MVC/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
 <div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Bienes_Raices_MVC)
-#
+  <a href="https://github.com/juancholopodous/Bienes_Raices_MVC"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
+</div>
 
-### Tercer proyecto web Festival de Música
+---
+
+<div align="center">
+  <h3>Tercer proyecto web Festival de Música</h3>
+</div>
 <a href="https://juancholopodous.github.io/Festival_De_Musica_Pages/"><img src="https://raw.githubusercontent.com/juancholopodous/Web-Festival-de-Musica/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
 <div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Web-Festival-de-Musica)
-#
+  <a href="https://github.com/juancholopodous/Web-Festival-de-Musica"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
+</div>
 
-### Segundo proyecto web BlogDeCafé
+---
+
+<div align="center">
+  <h3>Segundo proyecto web BlogDeCafé</h3>
+</div>
 <a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
 
 <div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Blog-De-Cafe)
-#
-  
-### Primer proyecto de desarrollo responsive para web Freelancer
+  <a href="https://github.com/juancholopodous/Blog-De-Cafe"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
+</div>
+
+---
+
+<div align="center">
+  <h3>Primer proyecto de desarrollo responsive para web Freelancer</h3>
+</div>
 <a href="https://juancholopodous.github.io/Freelance-Web-Designer/"><img src="https://raw.githubusercontent.com/juancholopodous/Freelance-Web-Designer/main/Media%20Github/portada.jpg" style="width:100%;"/></a>
 
 <div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Freelance-Web-Designer)
+  <a href="https://github.com/juancholopodous/Freelance-Web-Designer"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
+</div>
+
+---
 
 <div align="center">
-
-#
-
-### [WIP] Tienda Web Whiskers Pet-Shop 🚧
+  <h3>[WIP] Tienda Web Whiskers Pet-Shop 🚧</h3>
+</div>
 <a href="https://juancholopodous.github.io/Web-Whiskers-Petshop/index.html"><img src="https://github.com/juancholopodous/Web-Whiskers-Petshop/blob/main/Media%20Github/Portada%20W.jpg" style="height: 100%; width:100%;"/></a>
 
 <div align="center">
-  
-[![Repositorio](https://img.shields.io/badge/Repositorio-white?style=social&logo=github)](https://github.com/juancholopodous/Web-Whiskers-Petshop)
-
+  <a href="https://github.com/juancholopodous/Web-Whiskers-Petshop"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
 </div>
 
-<br>
 <br>
 
 ## Puedes encontrarme en:
