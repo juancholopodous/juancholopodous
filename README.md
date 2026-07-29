@@ -43,7 +43,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 <div align="center">
   <h3>Cuarto proyecto web Bienes Raices Model View Controller</h3>
 </div>
-<a href="https://bienesraices-juancholopodous-mvc.sao.dom.my.id/"><img src="https://raw.githubusercontent.com/juancholopodous/Bienes_Raices_MVC/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
+<a href="https://bienesraices-juancholopodous-mvc.sao.dom.my.id/"><img src="https://raw.githubusercontent.com/juancholopodous/Bienes_Raices_MVC/main/Media%20GitHub/Portada.gif" width="100%"/></a>
 
 <div align="center">
   <a href="https://github.com/juancholopodous/Bienes_Raices_MVC"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
@@ -65,7 +65,7 @@ En estos desarrollos integro la gestión de bases de datos relacionales con MySQ
 <div align="center">
   <h3>Segundo proyecto web BlogDeCafé</h3>
 </div>
-<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.gif" style="width:100%;"/></a>
+<a href="https://juancholopodous.github.io/Blog-De-Cafe/"><img src="https://raw.githubusercontent.com/juancholopodous/Blog-De-Cafe/main/Media%20GitHub/Portada.gif" width="100%"/></a>
 
 <div align="center">
   <a href="https://github.com/juancholopodous/Blog-De-Cafe"><img src="https://img.shields.io/badge/Repositorio-white?style=social&logo=github" alt="Repositorio" /></a>
